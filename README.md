@@ -1,2 +1,3 @@
 # yah-craft-recipe
-craft recipes of you are hope(game)
+craft recipes of you are hope(game)  
+\*Japanese only
