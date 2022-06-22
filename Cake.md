@@ -26,6 +26,6 @@ eba -->|"-粘土のボウル"| ecb(ケーキ)
 eca --> ecb
 ```
 ### 他
-* スポンジケーキ
-* クリーム入りのボウル
+* [スポンジケーキ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Sponge-cake.md)
+* [クリーム入りのボウル](https://github.com/aya-0p/yah-craft-recipe/blob/main/Cream.md)
 * たくさんのブルーベリー入りのボウル
