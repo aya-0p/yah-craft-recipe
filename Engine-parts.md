@@ -1,4 +1,3 @@
-仮
 ## エンジン(部品)
 ```mermaid
 flowchart BT
