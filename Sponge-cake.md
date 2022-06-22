@@ -29,4 +29,4 @@ acf -->|"-粘土盤\n+大きな粘土の皿"| acg(スポンジケーキ)
 * ハチミツ入りのボウル
 ### 道具
 * オーブン
-* 土器系
+* [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Cray.md)
