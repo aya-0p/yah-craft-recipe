@@ -51,6 +51,6 @@ bn --> bm
 * 車
 * エンジン井戸
 ### 必要なもの
-* 部品
+* [部品](https://github.com/aya-0p/yah-craft-recipe/blob/main/Engine-parts.md)
 * タイミングベルト
 * 長いまっすぐの棒
