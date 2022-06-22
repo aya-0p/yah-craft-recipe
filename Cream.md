@@ -7,6 +7,8 @@ dcb -->|"泡立て器"| dcc(ホイップクリーム入りのボウル)
 ```
 ### クラフト先
 * [ケーキ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Cake.md)
-### 他
-* 土器系
+### 必要なもの
 * クリーム入りのボウル
+### 道具
+* 泡立て器
+* 土器系
