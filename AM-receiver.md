@@ -23,7 +23,7 @@ ad --> bc
 subgraph x [2つ作る]
 direction BT
 xa[[銅線]]
-xa --> ca(炭素フィラメントとリードワイヤー)
+xa --> ca(炭素フィラメントとリードワイヤ)
 ae --> ca
 xa --> cb(ダイオードのリード)
 ca --> cb
