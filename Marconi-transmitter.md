@@ -26,7 +26,7 @@ ae --> bd
 end
 y ==> be(蓄電器)
 end
-z ==> bf(2つのコンデンサ)
+z ===> bf(2つのコンデンサ)
 bc --> bg(花火送信機の一部)
 bf --> bg
 af -->|短い棒| bh(銅線コイル)
@@ -38,8 +38,11 @@ bj --> bm(高/中/低周波花火送信機)
 ah --> bm
 ```
 ### 必要なもの
+* [銅の延べ棒x2、銅のロッドx2、銅箔x4、銅線、アンテナ、ダニエル電池](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-marconi-parts.md)
+* 板
 
 ### 道具
+* 短い棒
 
 ### 関連
 * [AM受信機](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-receiver.md)
