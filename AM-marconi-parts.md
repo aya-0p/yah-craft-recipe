@@ -57,8 +57,8 @@ bf --> bya
 bg -->|鍛冶金槌| byb(銅鍋)
 byb --> byc(硫酸銅入りの鍋)
 bya -->|"-粘土のボウル"| byc
-bn ------> byd(ダニエル電池アノード)
 bh --> byd
+bn ------> byd(ダニエル電池アノード)
 byc --> bye(ダニエル電池)
 byd --> bye
 end
