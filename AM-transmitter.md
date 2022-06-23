@@ -60,8 +60,14 @@ ea ---> ed(高/中/低周波AM送信機)
 eg ---> ed
 ```
 ### 必要なもの
+* [銅箔x(2+蓄電器の数x2)、銅線x8、炭素フィラメントx2、長いアンテナ、ダニエル電池x2](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-marconi-parts.md)
+* 炭素
+* 板
+* 熱いガラス球付きの吹管
+* 紙x(蓄電器の数x2)
 
 ### 道具
+* 短い棒
 
 ### 関連
 * [AM受信機](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-receiver.md)
