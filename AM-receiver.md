@@ -59,8 +59,10 @@ fc ---> fd(高/中/低周波AM受信機)
 aj --> fd
 ```
 ### 必要なもの
-
-### 道具
+* [銅線x5、炭素フィラメントx2、銅箔x2、鉄のロッド、電池x2、アンテナ](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-marconi-parts.md)
+* 紙
+* 板
+* 熱いガラス球付きの吹管
 
 ### 関連
 * [AM送信機](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-transmitter.md)
