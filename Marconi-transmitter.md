@@ -26,7 +26,7 @@ direction BT
 ad --> bd(箔と紙のサンドイッチ)
 ae --> bd
 end
-y ==> be(蓄電池)
+y ==> be(蓄電器)
 end
 z ==> bf(2つのコンデンサ)
 bc --> bg(花火送信機の一部)
