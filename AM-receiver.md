@@ -48,7 +48,7 @@ direction BT
 ag --> ea(箔と紙のサンドイッチ)
 ah --> ea
 end
-y ==> eb(蓄電池)
+y ==> eb(蓄電器)
 
 dg --> fa(AM受信機の一部)
 eb --> fa
