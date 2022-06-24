@@ -11,4 +11,4 @@ dcb -->|"泡立て器"| dcc(ホイップクリーム入りのボウル)
 * クリーム入りのボウル
 ### 道具
 * 泡立て器
-* [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Cray.md)
+* [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
