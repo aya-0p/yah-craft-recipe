@@ -1,4 +1,4 @@
-## 木製のテーブル
+## 木のテーブル
 ```mermaid
 flowchart BT
 aa[[長いまっすぐの棒x2]]
