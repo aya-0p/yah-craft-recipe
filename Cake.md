@@ -26,4 +26,4 @@ eca --> ecb
 * たくさんのブルーベリー入りのボウル
 ### 道具
 * ストンパー
-* [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Cray.md)
+* [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
