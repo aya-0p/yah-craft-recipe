@@ -33,3 +33,5 @@ be ----->|ニューコメンろくろ2回| bl("鋼のバルブ(6)")
 * [エンジン](https://github.com/aya-0p/yah-craft-recipe/blob/main/Engine-craft.md)
 ### 必要なもの
 * 鋼
+### 道具
+* [ニューコメン系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Newcomen-tools.md)
