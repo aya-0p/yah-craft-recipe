@@ -102,5 +102,5 @@ roota -....- ca
 ### 道具
 * 延伸板
 * [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
-* 鍛冶金槌
+* 鍛冶金づち
 * [ニューコメン系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Newcomen-tools.md)
