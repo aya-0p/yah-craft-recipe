@@ -1,4 +1,4 @@
-## テンプレート
+## ゴム
 ```mermaid
 flowchart BT
 subgraph a [基本]
