@@ -63,7 +63,7 @@ a -.- caa
 * ゴム製乳首
 ### 道具
 * 火
-* ボウル
+* [ボウル](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
 * 吹管
 * 木製ディスク
 * 炉
