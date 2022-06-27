@@ -47,6 +47,16 @@ bbd --> bbe{{荷車}}
 bbc --> bbe
 end
 
+subgraph f [タイヤのある荷車]
+direction BT
+faa[[荷車]]
+fab[[硬化ゴムタイヤx2]]
+fab ==> fba(2つのゴムタイヤ)
+faa --> fbb{{タイヤのある荷車}}
+fba --> fbb
+end
+b -..- faa
+
 subgraph c [つながれた馬力車]
 direction BT
 caa[[荷車]]
@@ -88,6 +98,7 @@ c -...- daa
 * 家畜のヒツジ
 * 板
 * 木製ディスク
+* 硬化ゴムタイヤ
 
 ### 道具
 * 鋼のちょうな
