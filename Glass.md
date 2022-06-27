@@ -60,7 +60,7 @@ a -.- caa
 * 生石灰入りのボウル
 * 砂入りのボウル
 * 長いまっすぐの棒
-* ゴム製乳首
+* [ゴム製乳首](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
 ### 道具
 * 火
 * [ボウル](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
