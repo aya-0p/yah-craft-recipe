@@ -12,3 +12,4 @@
 * [ミツバチの巣箱](https://github.com/aya-0p/yah-craft-recipe/blob/main/Beehive.md)
 * [ゴム](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
 * [小さい一輪車](https://github.com/aya-0p/yah-craft-recipe/blob/main/Wheelbarrow.md)
+* [じょうろ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Watering-can.md)
