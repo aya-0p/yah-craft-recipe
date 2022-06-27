@@ -51,7 +51,7 @@ ebc -->|ナイフ| ebd(タイミングベルト)
 * [ニューコメンエンジン、滑車駆動機構](https://github.com/aya-0p/yah-craft-recipe/blob/main/Newcomen-tools.md)
 * 荒い車
 * [タイヤのある荷車](https://github.com/aya-0p/yah-craft-recipe/blob/main/2.23.0/Horse-drawn-cart.md)
-* 小さい一輪車
+* [小さい一輪車](https://github.com/aya-0p/yah-craft-recipe/blob/main/Wheelbarrow.md)
 ### 必要なもの
 * ゴムの木
 * 硫黄入りのボウル
