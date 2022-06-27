@@ -10,3 +10,4 @@
 * [レンガ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Brick.md)
 * [ガラス](https://github.com/aya-0p/yah-craft-recipe/blob/main/Glass.md)
 * [ミツバチの巣箱](https://github.com/aya-0p/yah-craft-recipe/blob/main/Beehive.md)
+* [ゴム](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
