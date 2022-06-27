@@ -98,7 +98,7 @@ c -...- daa
 * 家畜のヒツジ
 * 板
 * 木製ディスク
-* 硬化ゴムタイヤ
+* [硬化ゴムタイヤ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
 
 ### 道具
 * 鋼のちょうな
