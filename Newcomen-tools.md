@@ -136,8 +136,7 @@ a <------------> topb
 * 小さな曲がった棒
 * 長いまっすぐの棒
 * [硬化ゴムタイヤ、硬化ゴムベルト](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
-* 鋼
-* 錬鉄
+* [鋼、錬鉄](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 
 ### 道具
 * [鍛冶金づち](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
