@@ -62,7 +62,7 @@ aj --> fd
 * [銅線x5、炭素フィラメントx2、銅箔x2、鉄のロッド、電池x2、アンテナ](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-marconi-parts.md)
 * 紙
 * 板
-* 熱いガラス球付きの吹管
+* [熱いガラス球付きの吹管](https://github.com/aya-0p/yah-craft-recipe/blob/main/Glass.md)
 
 ### 関連
 * [AM送信機](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-transmitter.md)
