@@ -140,6 +140,6 @@ a <------------> topb
 * 錬鉄
 
 ### 道具
-* 鍛冶金づち
+* [鍛冶金づち](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 石
 * 杭
