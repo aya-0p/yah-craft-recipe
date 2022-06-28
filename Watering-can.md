@@ -1,4 +1,4 @@
-## テンプレート
+## じょうろ
 ```mermaid
 flowchart BT
 aa[[鋼のパイプ]]
@@ -17,4 +17,4 @@ bd --> be
 * 空のバケツ
 ### 道具
 * [ニューコメンのこぎり](https://github.com/aya-0p/yah-craft-recipe/blob/main/Newcomen-tools.md)
-* 鍛冶金づち
+* [鍛冶金づち](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
