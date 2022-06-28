@@ -101,10 +101,8 @@ c -...- daa
 * [硬化ゴムタイヤ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Rubber.md)
 
 ### 道具
-* 鋼のちょうな
+* [鋼のちょうな、シャベル、ナイフ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 火打ち石つき弓切り
 * 杭
-* シャベル
-* ナイフ
 * 針と糸|針と毛糸玉
 * 石
