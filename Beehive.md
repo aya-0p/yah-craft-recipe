@@ -46,6 +46,5 @@ aac --> abk
 * 鎮圧したミツバチの巣
 * 長いまっすぐの棒
 ### 道具
-* つる鋸
-* ナイフ
+* [つる鋸、ナイフ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 鋭い石
