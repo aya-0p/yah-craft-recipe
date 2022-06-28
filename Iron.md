@@ -23,9 +23,22 @@ bbh --> bbi(つるはし)
 end
 abc -.-> b
 
+bbg ---> abd(刃)
+abd --> abh(ノコギリの刃)
+bbg -->|粘土のボウル| abf(焼き入れた鋼のバネ)
+bbf --> abe(やすり)
+
+
 subgraph c [錬鉄加工]
 direction BT
 ca[[熱い錬鉄]]
+ca --> cba(生硬なピストン)
+cba --> cbb(生硬なシリンダー)
+cbb --> cbc(空の燃料タンク)
+cbc --> cbd(ボイラー)
 end
+aba -..-> c
 ```
 ### 必要なもの
+* 鉄鉱石
+* 木炭
