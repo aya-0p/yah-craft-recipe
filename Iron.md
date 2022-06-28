@@ -20,6 +20,7 @@ bbe --> bbf(目のないやすり)
 bbf --> bbg(柄のない刃)
 bbg --> bbh(シャベル)
 bbh --> bbi(つるはし)
+ba -->|石| bbj(鍛冶金づち)
 end
 abc -.-> b
 
