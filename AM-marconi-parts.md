@@ -89,7 +89,7 @@ roota -....- ca
 
 ### 必要なもの
 * 銅の延べ棒
-* 細工した鉄
+* [細工した鉄](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 糸
 * 亜鉛
 * 硝石
@@ -97,10 +97,10 @@ roota -....- ca
 * 水入りのボウル
 * 紙
 * 灰
-* 熱いガラス球付きの吹管
+* [熱いガラス球付きの吹管](https://github.com/aya-0p/yah-craft-recipe/blob/main/Glass.md)
 
 ### 道具
 * 延伸板
 * [土器系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
-* 鍛冶金づち
+* [鍛冶金づち](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * [ニューコメン系](https://github.com/aya-0p/yah-craft-recipe/blob/main/Newcomen-tools.md)
