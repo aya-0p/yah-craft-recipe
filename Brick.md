@@ -82,13 +82,13 @@ abl --> abm
 * 辰砂
 ### 道具
 * 一輪車
-* シャベル
+* [シャベル](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 杭
 * バケツ
 * ボウル
 * ストンパー
 * 石
 * 板
-* くし|石のくわ|鋼のくわ
+* くし|石のくわ|[鋼のくわ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * かご
 * 熱い木炭
