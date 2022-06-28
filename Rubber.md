@@ -59,5 +59,5 @@ ebc -->|ナイフ| ebd(タイミングベルト)
 ### 道具
 * [粘土のボウル](https://github.com/aya-0p/yah-craft-recipe/blob/main/Clay.md)
 * くし|弱いくし
-* ナイフ
+* [ナイフ](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 空のバケツ
