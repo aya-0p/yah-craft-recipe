@@ -40,7 +40,7 @@ ah --> bk
 ### 必要なもの
 * [銅線x4、コヒーラー、鉄のロッド、炭素フィラメント、ダニエル電池x2、アンテナ](https://github.com/aya-0p/yah-craft-recipe/blob/main/AM-marconi-parts.md)
 * 板
-* 熱いガラス球付きの吹管
+* [熱いガラス球付きの吹管](https://github.com/aya-0p/yah-craft-recipe/blob/main/Glass.md)
 
 ### 道具
 * 短い棒
