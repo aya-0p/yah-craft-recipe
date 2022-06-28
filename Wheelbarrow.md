@@ -35,6 +35,5 @@ b --> abh
 * 鋼
 ### 道具
 * 炭筆
-* つる鋸
-* 鍛冶金づち
+* [つる鋸、鍛冶金づち](https://github.com/aya-0p/yah-craft-recipe/blob/main/Iron.md)
 * 鋭い石
