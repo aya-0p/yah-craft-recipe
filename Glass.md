@@ -1,8 +1,8 @@
 ## ガラス
 ```mermaid
-flowchart BT
+flowchart LR
 subgraph a [基本]
-direction BT
+direction LR
 aaa[[アッケシソウ]]
 aab[[水入りのボウル]]
 aac[[紙]]
@@ -23,7 +23,7 @@ abf -->|"ここから時間に注意！\n炉(ふいごあり)"| abg(融解した
 end
 
 subgraph b [蓋のついたガラス瓶]
-direction BT
+direction LR
 baa[[融解したガラス]]
 bab[[長いまっすぐの棒]]
 baa --> |"+吹管"| bba(熱いガラス球付きの吹管)
@@ -37,7 +37,7 @@ end
 a -.- baa
 
 subgraph c [哺乳瓶]
-direction BT
+direction LR
 caa[[融解したガラス]]
 cab[[ゴム製乳首]]
 caa --> |"+吹管"| cba(熱いガラス球付きの吹管)
